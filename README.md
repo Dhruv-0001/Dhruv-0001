@@ -2,11 +2,10 @@
 <img width="100%" height = "250px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
 
-# 💫 About Me:
-🔭 I am just an avid learner interested in real-life applications of python and Machine Learning.<br><br>🌱 Currently, I am deep diving into Data Science and contributing to Open Source for building a better community. <br><br>👯 I’m looking to collaborate on Projects, Tech Articles, Hackathons, etc.<br><br>💬 Talk to me about Python, Machine Learning, Web 3.0, and Data Science.
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/dhruvtyagi15/" target="_blank"> Dhruv Tyagi </a></h1>
+
+👋 Hey there! I'm an avid learner and enthusiast of Data, Python and Machine Learning, constantly seeking to apply my knowledge to real-life projects. <br><br>🎯 I'm looking forward to contribute to the Open Source community to foster a better learning environment.<br><br>🌱 Whether I'm deep diving into the latest technologies and techniques or collaborating on exciting projects, I'm always looking to challenge myself and expand my skillset.<br><br>🔭  When it comes to tech, I'm all about Python, Machine Learning, Web 3.0, and Data Science. If you're interested in any of these topics, let's chat! I'm always eager to exchange ideas and learn from others in the community.<br><br>👉  Know more about me  : **<a href="https://dhruv-portfolio-mu.vercel.app/" target="_blank">Portfolio</a>**
 
 ## Let's connect on [Linkedin](https://www.linkedin.com/in/dhruvtyagi15/)
 
