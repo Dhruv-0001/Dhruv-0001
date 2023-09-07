@@ -23,20 +23,7 @@
 <br>
 ### Check out my All skills **<a href="https://dhruv-portfolio-mu.vercel.app/" target="_blank">Here</a>**
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Dhruv-0001&show_icons=true&theme=dark&locale=en" alt="Dhruv Tyagi" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhruv-0001&show_icons=true&theme=dark&locale=en&layout=compact" alt="Dhruv Tyagi" /></td>
-  </tr>
-</table>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-0001&theme=dark" alt="Dhruv Tyagi" /></p>
-  </div>
-
-<div align="center">
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Dhruv-0001&theme=discord&no-frame=false&no-bg=true&margin-w=4" alt="Dhruv Tyagi" /></p>
-  </div>
 
 
 <h3 align="center"> Dev Quote </h3>
