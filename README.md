@@ -31,6 +31,12 @@
 <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dhruv Tyagi" /></p>
   </div>
 
+<p align="center">&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api?username=Dhruv-0001&cc=504&tc=BD2&ic=EC3&bc=000" alt="Dhruv-0001" /></p>
+<h3 align="center">A passionate and innovative developer from India.</h3>
+
+
+
+
 
 <div align="center">
   <a href="https://buymeacoffee.com/https://www.buymeacoffee.com/DhruvTyagi" target="_blank"><img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Dhruv Tyagi" /></a>
