@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/dhruvtyagi15/" target="_blank"> Dhruv Tyagi </a></h1>
 
 - 🌱 Learning Never Stops 🚀
-- 👋 Ask me about **Machine Learning, Python, Data Science, Development**
+- 👋 Ask me about **Machine Learning, Python, Data Science, Development, Devops, PLC**
 - 🎯 Looking to contribute to the Open Source community to foster a better learning environment.
 - 🔭 Deep Diving into Artificial Learning, Web 3.0, Web Development.
 - 🌱 Eager to collaborate and contribute on exciting projects.
