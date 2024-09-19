@@ -6,7 +6,7 @@
 - 🎯 Looking to contribute to the Open Source community to foster a better learning environment.
 - 🔭 Deep Diving into Artificial Learning, Web 3.0, Web Development.
 - 🌱 Eager to collaborate and contribute on exciting projects.
-- 👉  Know more about me  : **<a href="https://dhruv-portfolio-mu.vercel.app/" target="_blank">Portfolio</a>**
+- 👉  Know more about me  : **<a href="https://bento.me/dhruv-codes" target="_blank">Portfolio</a>**
 - 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
